@@ -1,6 +1,6 @@
 # Welkom op mijn GitHub! 👋
 ## Over Mij
-Hi! Ik ben [Jouw Naam], een enthousiaste eerstejaarsstudent bij de Bit Academy. Ik ben 16 jaar oud en leer elke dag meer over programmeren en webontwikkeling. 💻
+Hi! Ik ben Keano, een eerstejaarsstudent bij de Bit Academy. Ik ben 16 jaar oud en leer elke dag meer over programmeren en webontwikkeling. 💻
 
 ### Mijn Vaardigheden:
 - **Frameworks:** Tailwind CSS & Bootstrap (hier ben ik goed in 💪)
